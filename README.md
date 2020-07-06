@@ -1,4 +1,4 @@
-# Sentiment-Analysis-On-restaurants
+# Sentiment Analysis On Yelp Reviews
 Ability to clean yelp and facebook data and retrieve the aspects along with its polarity to identify the sentiments of customers towards the restaurant.
 
 It is understood that the research area of sentiment analysis, opinion mining, sentiment mining and sentiment extraction has gained popularity.
